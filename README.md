@@ -16,5 +16,5 @@ A Wordle-inspired word guessing game, built in Python and tested in **Google Col
 
 ## Notes
 - Currently only handles `.` as end-of-sentence punctuation.
-- This repo contains the core game logic (feedback generation, letter tracking, word tokenization, terminal/keyboard display) that is my contribution to the assignment. The word-list/validation component was built by the project partner and is intentionally excluded here, so the game is not currently runnable for now. I'm sharing this to showcase the logic I built; a working version would need a word_list (or similar validation source) supplied.
+- This repo contains the core game logic (feedback generation, letter tracking, word tokenization, terminal/keyboard display) that is my contribution to the assignment. The word-list/validation component was built by the project partner and is intentionally excluded here, so the game is not currently runnable for now. I'm sharing this to showcase the logic I built; a working version would need a `word_list` (or similar validation source) supplied.
 
